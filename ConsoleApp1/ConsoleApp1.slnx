@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Project Path="dataType/dataType.csproj" Id="4be8aaa2-cf3e-4080-b738-2dbdde10a04e" />
   <Project Path="hennsu/hennsu.csproj" Id="27f990dd-012f-44c2-bf25-e062e942124b" />
 </Solution>
