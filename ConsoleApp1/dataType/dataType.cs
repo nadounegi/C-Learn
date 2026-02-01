@@ -91,7 +91,7 @@ namespace dataType
             //類型転換常见错误
             int age3 = 14;
             char ch2 = '女';
-           char result = age3 + ch2; //エラー　int型とchar型は互換性がない
+           //char result = age3 + ch2; //エラー　int型とchar型は互換性がない
             int isex = ch2; //char型小于int型，互換性があるので暗黙的変換できる
         }
     }
