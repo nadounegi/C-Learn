@@ -3,4 +3,5 @@
   <Project Path="dataType/dataType.csproj" Id="4be8aaa2-cf3e-4080-b738-2dbdde10a04e" />
   <Project Path="exp&amp;opc/exp&amp;opc.csproj" Id="b0c3e266-fd69-4e5c-9d2c-3ab03c6befdf" />
   <Project Path="hennsu/hennsu.csproj" Id="27f990dd-012f-44c2-bf25-e062e942124b" />
+  <Project Path="mojiretu/mojiretu.csproj" Id="2df43b49-6535-4593-80ef-a73f84a04242" />
 </Solution>
