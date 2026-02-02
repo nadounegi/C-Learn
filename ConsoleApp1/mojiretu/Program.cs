@@ -1,10 +1,8 @@
-﻿using System.Runtime.Intrinsics.X86;
-
-namespace mojiretu
+﻿namespace mojiretu
 {
     class Program
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
             //文字列と文字型の変量宣言
             int score = 98;
