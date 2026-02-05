@@ -1,8 +1,10 @@
 <Solution>
+  <Project Path="circulation/circulation.csproj" Id="5eb5e08a-eab4-455d-8e75-d0fb3582e9ab" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
   <Project Path="dataType/dataType.csproj" Id="4be8aaa2-cf3e-4080-b738-2dbdde10a04e" />
   <Project Path="exp&amp;opc/exp&amp;opc.csproj" Id="b0c3e266-fd69-4e5c-9d2c-3ab03c6befdf" />
   <Project Path="hennsu/hennsu.csproj" Id="27f990dd-012f-44c2-bf25-e062e942124b" />
   <Project Path="if/ifElse.csproj" Id="4a993610-fbd9-4e1a-8a6b-2a823604faab" />
+  <Project Path="List&amp;ArrayLIst/List&amp;ArrayList.csproj" Id="f0139e8e-2f38-42ca-9a08-458ce8bbb91c" />
   <Project Path="mojiretu/mojiretu.csproj" Id="2df43b49-6535-4593-80ef-a73f84a04242" />
 </Solution>
